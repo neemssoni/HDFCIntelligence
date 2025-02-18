@@ -1,0 +1,79 @@
+{
+    "banners": [
+      {
+        "type": "home_loan",
+        "title": "🏡 Your Dream Home Awaits!",
+        "description": "Get a Home Loan at just 8.5% p.a.",
+        "ai_insight": "Regular UPI payments suggest potential homebuyer interest.",
+        "cta": {
+          "text": "Apply Now",
+          "link": "/apply/home-loan"
+        },
+        "colors": {
+          "background": "#FFEBB5",
+          "text": "#333333"
+        },
+        "icon": "home"
+      },
+      {
+        "type": "credit_card",
+        "title": "💳 Get a Credit Card with ₹5,000 Welcome Rewards!",
+        "description": "High UPI and IMPS usage indicates you're eligible for exclusive credit card offers.",
+        "ai_insight": "Active spending patterns detected.",
+        "cta": {
+          "text": "Apply Now",
+          "link": "/apply/credit-card"
+        },
+        "colors": {
+          "background": "#D1E7FF",
+          "text": "#000000"
+        },
+        "icon": "credit_card"
+      },
+      {
+        "type": "fixed_deposit",
+        "title": "📈 Maximize Your Savings!",
+        "description": "Open an FD @7.25% p.a. for 1 year.",
+        "ai_insight": "₹23,622 saved last month suggests savings potential.",
+        "cta": {
+          "text": "Invest Now",
+          "link": "/apply/fixed-deposit"
+        },
+        "colors": {
+          "background": "#C3F3D3",
+          "text": "#000000"
+        },
+        "icon": "trending_up"
+      },
+      {
+        "type": "personal_loan",
+        "title": "💰 Need Instant Cash?",
+        "description": "Pre-approved Personal Loan up to ₹5 Lakhs!",
+        "ai_insight": "High transaction frequency suggests potential short-term liquidity needs.",
+        "cta": {
+          "text": "Check Eligibility",
+          "link": "/apply/personal-loan"
+        },
+        "colors": {
+          "background": "#FFD6E7",
+          "text": "#000000"
+        },
+        "icon": "money"
+      },
+      {
+        "type": "investment_plan",
+        "title": "🚀 Plan Your Future with Smart Investments!",
+        "description": "Start a SIP with as low as ₹500/month.",
+        "ai_insight": "Consistent savings pattern indicates readiness for long-term investments.",
+        "cta": {
+          "text": "Get Started",
+          "link": "/apply/investment-plan"
+        },
+        "colors": {
+          "background": "#E6DFFF",
+          "text": "#000000"
+        },
+        "icon": "pie_chart"
+      }
+    ]
+  }
